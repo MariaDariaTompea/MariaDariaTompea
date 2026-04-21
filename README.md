@@ -6,9 +6,10 @@ Computer science student at Babes-Bolyai University and aspiring developer. Pass
 
 ## About Me
 
-I am currently studying Computer Science at Babes-Bolyai University and building projects that span multiple languages and domains — from university coursework to personal explorations in game development, language design, and hardware. I enjoy finding the intersection between technical problem-solving and creative expression.
+I am currently studying Computer Science at Babes-Bolyai University and building projects that span multiple languages and domains ,from university coursework to personal explorations in game development, language design, and hardware. I enjoy finding the intersection between technical problem-solving and creative expression.
 
 Beyond programming, I am an artist working in graphical design, digital art, painting, original character creation, and writing. I am working to find my niche and combine both my interests in art and technology.
+
 
 ---
 
