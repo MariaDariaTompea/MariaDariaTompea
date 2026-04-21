@@ -65,8 +65,6 @@ Beyond programming, I am an artist working in graphical design, digital art, pai
 | Structuri de date si algoritmi (Data Structures and Algorithms) | Core |
 | Sisteme de operare (Operating Systems) | Core |
 | Sisteme dinamice (Dynamical Systems) | Core |
-| Fundamentele pedagogiei (Fundamentals of Pedagogy) | Elective |
-| Metode avansate de rezolvare a problemelor de matematica si informatica (Advanced Problem Solving Methods) | Elective |
 
 ### Year 2
 
@@ -77,7 +75,6 @@ Beyond programming, I am an artist working in graphical design, digital art, pai
 | Inteligenta artificiala (Artificial Intelligence) | Core |
 | Sisteme de gestiune a bazelor de date (Database Management Systems) | Core |
 | Medii de proiectare si programare (Design and Programming Environments) | Core |
-| Didactica Informaticii (Didactics of Computer Science) | Elective |
 | Limba Engleza (English Language) | Elective |
 
 ### Year 3
@@ -87,7 +84,6 @@ Beyond programming, I am an artist working in graphical design, digital art, pai
 | Calcul numeric (Numerical Computation) | Core |
 | Verificarea si validarea sistemelor soft (Software Verification and Validation) | Core |
 | Android Things | Core |
-| Gestiunea proiectelor soft (Software Project Management) | Core 
 | Introducere in prelucrarea limbajului natural (Intro to Natural Language Processing) | Elective |
 | Intelegerea si implementarea de modele lingvistice mari — LLMs (Large Language Models) | Elective |
 | Tehnici de realizare a sistemelor inteligente (Intelligent Systems Techniques) | Elective |
