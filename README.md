@@ -29,6 +29,7 @@ Beyond programming, I am an artist working in graphical design, digital art, pai
 ![Prolog](https://img.shields.io/badge/Prolog-E61B23?style=flat&logoColor=white)
 ![Common Lisp](https://img.shields.io/badge/Common%20Lisp-3FB68B?style=flat&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 
 ---
 
