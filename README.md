@@ -40,8 +40,3 @@ Beyond programming, I am an artist working in graphical design, digital art, pai
 - Simple hardware and embedded systems programming
 - The use of AI in creative applications, such as poetry generation and generative art
 
----
-
-## Contact
-
-- GitHub: [MariaDariaTompea](https://github.com/MariaDariaTompea)
