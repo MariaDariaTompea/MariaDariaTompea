@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&width=500&lines=CS+student+%40+Babe%C8%99-Bolyai+University;Artist+%2B+Developer;Building+creative+tech;Game+dev+%26+generative+art;Exploring+embedded+systems)](https://git.io/typing-svg)
+
 # Maria-Daria Tompea
 
 Computer science student at Babes-Bolyai University and aspiring developer. Passionate about combining creativity, artistic vision, and aesthetic design with programming.
@@ -39,4 +41,14 @@ Beyond programming, I am an artist working in graphical design, digital art, pai
 - Character creation and design, combining artistic and technical skills
 - Simple hardware and embedded systems programming
 - The use of AI in creative applications, such as poetry generation and generative art
+
+---
+
+## GitHub Stats
+
+![Maria-Daria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MariaDariaTompea&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaDariaTompea&layout=compact&theme=tokyonight&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MariaDariaTompea&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
