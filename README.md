@@ -46,9 +46,9 @@ Beyond programming, I am an artist working in graphical design, digital art, pai
 
 ## GitHub Stats
 
-![Maria-Daria's GitHub Stats](https://github-readme-stats-eight.vercel.app/api?username=MariaDariaTompea&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Maria-Daria's GitHub Stats](https://github-readme-stats-one.vercel.app/api?username=MariaDariaTompea&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats-eight.vercel.app/api/top-langs/?username=MariaDariaTompea&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-one.vercel.app/api/top-langs/?username=MariaDariaTompea&layout=compact&theme=tokyonight&hide_border=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MariaDariaTompea&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
