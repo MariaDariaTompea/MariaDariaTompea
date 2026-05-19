@@ -12,7 +12,7 @@ Computer science student at Babes-Bolyai University and aspiring developer. Pass
 
 ## About Me
 
-<img src="./fox.svg" align="right" width="130" alt="Jumping Chibi Fox" />
+<img src="./fox.svg?v=2" align="right" width="130" alt="Jumping Chibi Fox" />
 
 I am currently studying Computer Science at Babes-Bolyai University and building projects that span multiple languages and domains ,from university coursework to personal explorations in game development, language design, and hardware. I enjoy finding the intersection between technical problem-solving and creative expression.
 
