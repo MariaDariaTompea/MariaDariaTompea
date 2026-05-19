@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./banner.png" width="100%" alt="Generative Art Banner" />
-</p>
-
 # Maria-Daria Tompea
 
 <p align="left">
