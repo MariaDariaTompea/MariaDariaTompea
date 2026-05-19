@@ -46,9 +46,17 @@ Beyond programming, I am an artist working in graphical design, digital art, pai
 
 ## GitHub Stats
 
-![Maria-Daria's GitHub Stats](https://github-readme-stats-one.vercel.app/api?username=MariaDariaTompea&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats-one.vercel.app/api?username=MariaDariaTompea&show_icons=true&bg_color=0d0e15&title_color=a78bfa&text_color=a9b1d6&icon_color=a78bfa&hide_border=true&count_private=true" alt="Maria-Daria's GitHub Stats" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=MariaDariaTompea&layout=compact&bg_color=0d0e15&title_color=a78bfa&text_color=a9b1d6&icon_color=a78bfa&hide_border=true" alt="Top Languages" />
+</p>
 
-![Top Languages](https://github-readme-stats-one.vercel.app/api/top-langs/?username=MariaDariaTompea&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=MariaDariaTompea&background=0d0e15&border=0d0e15&stroke=a78bfa&ring=a78bfa&fire=a78bfa&currStreakNum=a78bfa&sideNums=a9b1d6&currStreakLabel=a9b1d6&sideLabels=a9b1d6&dates=a9b1d6&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MariaDariaTompea&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MariaDariaTompea&bg_color=0d0e15&color=a9b1d6&line=a78bfa&point=8b5cf6&area_color=8b5cf6&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph" alt="Activity Graph" />
+</p>
