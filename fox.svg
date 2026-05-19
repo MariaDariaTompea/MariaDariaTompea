@@ -6,16 +6,23 @@
       <stop offset="100%" stop-color="#000000" stop-opacity="0" />
     </radialGradient>
     
-    <!-- Gradient for magical cosmic fox fur -->
+    <!-- Gradient for magical white/silver kitsune fur -->
     <linearGradient id="foxFur" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#FF6B4A" /> <!-- Vibrant orange -->
-      <stop offset="100%" stop-color="#E23E57" /> <!-- Neon red-pink -->
+      <stop offset="0%" stop-color="#FFFFFF" /> <!-- Pure White -->
+      <stop offset="60%" stop-color="#F1F5F9" /> <!-- Light Silver-Blue -->
+      <stop offset="100%" stop-color="#E2E8F0" /> <!-- Slate/Lavender Shadow -->
+    </linearGradient>
+
+    <!-- Gradient for magical white kitsune tail tips (glowing soft purple/pink) -->
+    <linearGradient id="tailTip" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F8FAFC" />
+      <stop offset="100%" stop-color="#E9D5FF" /> <!-- Lavender glow -->
     </linearGradient>
     
     <!-- Gradient for inner ears -->
     <linearGradient id="innerEar" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#FCE38A" />
-      <stop offset="100%" stop-color="#F38181" />
+      <stop offset="0%" stop-color="#F3E8FF" /> <!-- Lavender -->
+      <stop offset="100%" stop-color="#F472B6" /> <!-- Soft pink -->
     </linearGradient>
   </defs>
 
@@ -111,7 +118,7 @@
 
     .tassel {
       animation: dangle 1.6s infinite ease-in-out;
-      transform-origin: 100px 62px;
+      transform-origin: 100px 58px;
     }
 
     .ground-shadow {
@@ -126,104 +133,103 @@
   <!-- The Fox Body Group (Animated Jump) -->
   <g class="animated-fox">
     
-    <!-- ==================== THREE KITSUNE TAILS ==================== -->
+    <!-- ==================== THREE KITSUNE TAILS (White/Silver with Lavender tips) ==================== -->
     <!-- Left Tail -->
     <g class="tail-l">
-      <path d="M 75 140 C 40 135, 10 110, 20 80 C 25 60, 50 60, 60 75 C 70 90, 75 110, 85 130 Z" fill="url(#foxFur)" />
-      <path d="M 28 85 C 22 75, 25 60, 35 62 C 38 68, 38 78, 28 85 Z" fill="#FFFFFF" />
+      <path d="M 75 140 C 40 135, 10 110, 20 80 C 25 60, 50 60, 60 75 C 70 90, 75 110, 85 130 Z" fill="url(#foxFur)" stroke="#CBD5E1" stroke-width="0.5" />
+      <path d="M 28 85 C 22 75, 25 60, 35 62 C 38 68, 38 78, 28 85 Z" fill="url(#tailTip)" />
     </g>
 
     <!-- Right Tail -->
     <g class="tail-r">
-      <path d="M 125 140 C 160 135, 190 110, 180 80 C 175 60, 150 60, 140 75 C 130 90, 125 110, 115 130 Z" fill="url(#foxFur)" />
-      <path d="M 172 85 C 178 75, 175 60, 165 62 C 162 68, 162 78, 172 85 Z" fill="#FFFFFF" />
+      <path d="M 125 140 C 160 135, 190 110, 180 80 C 175 60, 150 60, 140 75 C 130 90, 125 110, 115 130 Z" fill="url(#foxFur)" stroke="#CBD5E1" stroke-width="0.5" />
+      <path d="M 172 85 C 178 75, 175 60, 165 62 C 162 68, 162 78, 172 85 Z" fill="url(#tailTip)" />
     </g>
 
     <!-- Center/Main Tail -->
     <g class="tail-m">
-      <path d="M 100 145 C 75 125, 70 85, 90 55 C 100 40, 115 45, 115 65 C 115 85, 110 115, 105 135 Z" fill="url(#foxFur)" />
-      <path d="M 92 57 C 98 44, 112 45, 110 58 C 104 62, 97 62, 92 57 Z" fill="#FFFFFF" />
+      <path d="M 100 145 C 75 125, 70 85, 90 55 C 100 40, 115 45, 115 65 C 115 85, 110 115, 105 135 Z" fill="url(#foxFur)" stroke="#CBD5E1" stroke-width="0.5" />
+      <path d="M 92 57 C 98 44, 112 45, 110 58 C 104 62, 97 62, 92 57 Z" fill="url(#tailTip)" />
     </g>
 
     <!-- Feet/Paws (Back) -->
-    <ellipse cx="75" cy="165" rx="14" ry="8" fill="#D35400" />
-    <ellipse cx="125" cy="165" rx="14" ry="8" fill="#D35400" />
+    <ellipse cx="75" cy="165" rx="14" ry="8" fill="#94A3B8" />
+    <ellipse cx="125" cy="165" rx="14" ry="8" fill="#94A3B8" />
 
     <!-- Body -->
-    <rect x="70" y="115" width="60" height="50" rx="25" fill="url(#foxFur)" />
+    <rect x="70" y="115" width="60" height="50" rx="25" fill="url(#foxFur)" stroke="#CBD5E1" stroke-width="0.5" />
     <!-- White Chest/Bib -->
-    <path d="M 85 115 C 85 145, 115 145, 115 115 C 115 130, 85 130, 85 115 Z" fill="#FFFFFF" />
+    <path d="M 85 115 C 85 145, 115 145, 115 115 C 115 130, 85 130, 85 115 Z" fill="#F8FAFC" />
 
     <!-- Feet/Paws (Front) -->
-    <ellipse cx="90" cy="167" rx="10" ry="8" fill="#FFFFFF" />
-    <ellipse cx="110" cy="167" rx="10" ry="8" fill="#FFFFFF" />
+    <ellipse cx="90" cy="167" rx="10" ry="8" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.5" />
+    <ellipse cx="110" cy="167" rx="10" ry="8" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.5" />
 
     <!-- Left Ear -->
     <g class="left-ear">
-      <path d="M 50 85 L 65 30 C 70 35, 80 65, 82 78 Z" fill="url(#foxFur)" />
+      <path d="M 50 85 L 65 30 C 70 35, 80 65, 82 78 Z" fill="url(#foxFur)" stroke="#CBD5E1" stroke-width="0.5" />
       <path d="M 55 80 L 67 40 C 70 45, 75 65, 77 75 Z" fill="url(#innerEar)" />
     </g>
 
     <!-- Right Ear -->
     <g class="right-ear">
-      <path d="M 150 85 L 135 30 C 130 35, 120 65, 118 78 Z" fill="url(#foxFur)" />
+      <path d="M 150 85 L 135 30 C 130 35, 120 65, 118 78 Z" fill="url(#foxFur)" stroke="#CBD5E1" stroke-width="0.5" />
       <path d="M 145 80 L 133 40 C 130 45, 125 65, 123 75 Z" fill="url(#innerEar)" />
     </g>
 
     <!-- Head -->
-    <ellipse cx="100" cy="95" rx="42" ry="32" fill="url(#foxFur)" />
+    <ellipse cx="100" cy="95" rx="42" ry="32" fill="url(#foxFur)" stroke="#CBD5E1" stroke-width="0.5" />
 
     <!-- Cheeks (White fluff cheeks) -->
     <path d="M 58 98 C 50 108, 65 118, 75 115 C 65 105, 60 98, 58 98 Z" fill="#FFFFFF" />
     <path d="M 142 98 C 150 108, 135 118, 125 115 C 135 105, 140 98, 142 98 Z" fill="#FFFFFF" />
 
-    <!-- Sparkly Eyes -->
+    <!-- ==================== KITSUNE FACIAL MARKINGS & SLANTED EYES ==================== -->
+    
+    <!-- Forehead Magic Diamond -->
+    <path d="M 100 74 L 103 80 L 100 86 L 97 80 Z" fill="#E23E57" />
+    
+    <!-- Slanted Kitsune Eyeliner (Red highlights) -->
+    <path d="M 69 88 Q 80 94 86 97" stroke="#E23E57" stroke-width="2.5" fill="none" stroke-linecap="round" />
+    <path d="M 131 88 Q 120 94 114 97" stroke="#E23E57" stroke-width="2.5" fill="none" stroke-linecap="round" />
+
+    <!-- Slanted/Drawn Kitsune Eyes -->
     <g class="eye">
       <!-- Left Eye -->
-      <ellipse cx="80" cy="95" rx="7" ry="10" fill="#2C3E50" />
-      <circle cx="78" cy="92" r="2.5" fill="#FFFFFF" />
-      <circle cx="82" cy="97" r="1.2" fill="#FFFFFF" />
+      <path d="M 72 90 Q 80 94 85 96 Q 79 97 72 90 Z" fill="#1E293B" />
+      <circle cx="77" cy="92" r="1.5" fill="#FFFFFF" />
     </g>
     <g class="eye">
       <!-- Right Eye -->
-      <ellipse cx="120" cy="95" rx="7" ry="10" fill="#2C3E50" />
-      <circle cx="118" cy="92" r="2.5" fill="#FFFFFF" />
-      <circle cx="122" cy="97" r="1.2" fill="#FFFFFF" />
+      <path d="M 128 90 Q 120 94 115 96 Q 121 97 128 90 Z" fill="#1E293B" />
+      <circle cx="123" cy="92" r="1.5" fill="#FFFFFF" />
     </g>
 
-    <!-- ==================== KITSUNE FACIAL MARKINGS ==================== -->
-    <!-- Forehead Magic Diamond -->
-    <path d="M 100 74 L 103 80 L 100 86 L 97 80 Z" fill="#E23E57" />
-    <!-- Left Eye Cheek Mark -->
-    <path d="M 72 102 C 68 100, 68 95, 73 97" stroke="#E23E57" stroke-width="1.8" fill="none" stroke-linecap="round" />
-    <!-- Right Eye Cheek Mark -->
-    <path d="M 128 102 C 132 100, 132 95, 127 97" stroke="#E23E57" stroke-width="1.8" fill="none" stroke-linecap="round" />
-
     <!-- Cute Blush Cheeks -->
-    <ellipse cx="68" cy="104" rx="5" ry="3" fill="#F38181" opacity="0.6" />
-    <ellipse cx="132" cy="104" rx="5" ry="3" fill="#F38181" opacity="0.6" />
+    <ellipse cx="68" cy="104" rx="5" ry="3" fill="#F472B6" opacity="0.5" />
+    <ellipse cx="132" cy="104" rx="5" ry="3" fill="#F472B6" opacity="0.5" />
 
     <!-- Snout & Nose -->
-    <polygon points="96,104 104,104 100,108" fill="#2C3E50" />
-    <path d="M 98 111 Q 100 113 102 111" stroke="#2C3E50" stroke-width="1.5" fill="none" stroke-linecap="round" />
+    <polygon points="97,103 103,103 100,106" fill="#475569" />
+    <path d="M 98 109 Q 100 111 102 109" stroke="#475569" stroke-width="1.2" fill="none" stroke-linecap="round" />
 
-    <!-- ==================== GRADUATION MORTARBOARD CAP ==================== -->
-    <!-- Cap Base Rim -->
-    <ellipse cx="100" cy="68" rx="16" ry="6" fill="#1C2833" />
-    <path d="M 84 68 C 84 72, 116 72, 116 68 Z" fill="#0F172A" />
+    <!-- ==================== LARGER GRADUATION MORTARBOARD CAP WITH GREEN TASSEL ==================== -->
+    <!-- Cap Base Rim (Scaled Up) -->
+    <ellipse cx="100" cy="65" rx="22" ry="7.5" fill="#0F172A" />
+    <path d="M 78 65 C 78 71, 122 71, 122 65 Z" fill="#1E293B" />
     
-    <!-- Top Diamond Plate -->
-    <polygon points="76,62 100,54 124,62 100,70" fill="#1E293B" />
+    <!-- Top Diamond Plate (Scaled Up) -->
+    <polygon points="66,57 100,48 134,57 100,66" fill="#0F172A" stroke="#1E293B" stroke-width="0.5" />
     <!-- Highlight on top diamond edge -->
-    <polygon points="76,62 100,56 124,62 100,60" fill="#334155" opacity="0.4" />
+    <polygon points="66,57 100,50 134,57 100,54" fill="#334155" opacity="0.4" />
     
-    <!-- Golden Tassel (Animated Dangling) -->
-    <circle cx="100" cy="62" r="2.2" fill="#F1C40F" />
+    <!-- Vibrant Green Tassel (Animated Dangling) -->
+    <circle cx="100" cy="57" r="2.5" fill="#10B981" /> <!-- Emerald Green button -->
     <g class="tassel">
       <!-- Hanging thread -->
-      <path d="M 100 62 C 108 63, 113 67, 114 74" stroke="#F1C40F" stroke-width="1.5" fill="none" stroke-linecap="round" />
-      <!-- Golden fluffy fringe -->
-      <path d="M 114 74 L 116 83 L 112 83 Z" fill="#F1C40F" />
+      <path d="M 100 57 C 110 59, 118 64, 120 72" stroke="#10B981" stroke-width="1.8" fill="none" stroke-linecap="round" />
+      <!-- Golden-green fluffy fringe -->
+      <path d="M 120 72 L 122 81 L 118 81 Z" fill="#10B981" />
     </g>
 
   </g>
