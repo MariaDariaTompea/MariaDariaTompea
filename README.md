@@ -1,12 +1,22 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&width=500&lines=CS+student+%40+Babe%C8%99-Bolyai+University;Artist+%2B+Developer;Building+creative+tech;Game+dev+%26+generative+art;Exploring+embedded+systems)](https://git.io/typing-svg)
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Generative Art Banner" />
+</p>
 
 # Maria-Daria Tompea
+
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&width=500&lines=CS+student+%40+Babe%C8%99-Bolyai+University;Artist+%2B+Developer;Building+creative+tech;Game+dev+%26+generative+art;Exploring+embedded+systems" alt="Typing SVG" />
+  </a>
+</p>
 
 Computer science student at Babes-Bolyai University and aspiring developer. Passionate about combining creativity, artistic vision, and aesthetic design with programming.
 
 ---
 
 ## About Me
+
+<img src="./fox.svg" align="right" width="130" alt="Jumping Chibi Fox" />
 
 I am currently studying Computer Science at Babes-Bolyai University and building projects that span multiple languages and domains ,from university coursework to personal explorations in game development, language design, and hardware. I enjoy finding the intersection between technical problem-solving and creative expression.
 
