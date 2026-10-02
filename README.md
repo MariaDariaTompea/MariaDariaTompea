@@ -49,6 +49,7 @@ Currently working as a DTP specialist / tehnoredactor at *Monitorul de Suceava* 
 ![QuarkXPress](https://img.shields.io/badge/QuarkXPress-0E8A16?style=flat&logoColor=white)
 ![CorelDRAW](https://img.shields.io/badge/CorelDRAW-009A44?style=flat&logo=coreldraw&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)
 ![Adobe Acrobat](https://img.shields.io/badge/Adobe%20Acrobat-EC1C24?style=flat&logo=adobeacrobatreader&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-0B1622?style=flat&logo=davinciresolve&logoColor=white)
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat&logo=capcut&logoColor=white)
