@@ -18,6 +18,8 @@ I am currently studying Computer Science at Babes-Bolyai University and building
 
 Beyond programming, I am an artist working in graphical design, digital art, painting, original character creation, and writing. I am working to find my niche and combine both my interests in art and technology.
 
+Currently working as a DTP specialist / tehnoredactor at *Monitorul de Suceava* — editing and recording podcasts, designing advertisement add-ons, and formatting print layouts for the newspaper.
+
 
 ---
 
@@ -40,10 +42,23 @@ Beyond programming, I am an artist working in graphical design, digital art, pai
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 
+<br/>
+
+### Editorial & Media Production Tools
+
+![QuarkXPress](https://img.shields.io/badge/QuarkXPress-0E8A16?style=flat&logoColor=white)
+![CorelDRAW](https://img.shields.io/badge/CorelDRAW-009A44?style=flat&logo=coreldraw&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+![Adobe Acrobat](https://img.shields.io/badge/Adobe%20Acrobat-EC1C24?style=flat&logo=adobeacrobatreader&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-0B1622?style=flat&logo=davinciresolve&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat&logo=capcut&logoColor=white)
+
+
 ---
 
 ## Currently Focusing On
 
+- **Currently studying UI/UX design**
 - Character creation and design, combining artistic and technical skills
 - Simple hardware and embedded systems programming
 - The use of AI in creative applications, such as poetry generation and generative art
@@ -66,3 +81,47 @@ Beyond programming, I am an artist working in graphical design, digital art, pai
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MariaDariaTompea&bg_color=0d0e15&color=a9b1d6&line=a78bfa&point=8b5cf6&area_color=8b5cf6&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph" alt="Activity Graph" />
 </p>
+
+---
+
+## 🗂️ Portfolio & Project Lists
+
+> Repositories and works categorized by track:
+> - [x] **UNIVERSITY**
+> - [ ] **FINISHED PERSONAL PROJECTS**
+> - [ ] **FUTURE PROJECTS**
+
+<details open>
+  <summary>🎓 <b>UNIVERSITY</b></summary>
+  <br/>
+
+  > *Academic assignments, laboratories, and semester projects from Babeș-Bolyai University.*
+
+  <!-- Add your university project links/tables here -->
+  *Coming soon / Under curation*
+</details>
+
+<br/>
+
+<details>
+  <summary>🚀 <b>FINISHED PERSONAL PROJECTS</b></summary>
+  <br/>
+
+  > *Completed personal creations, game development experiments, generative art, and software utilities.*
+
+  <!-- Add your completed personal project links/tables here -->
+  *Coming soon / Under curation*
+</details>
+
+<br/>
+
+<details>
+  <summary>💡 <b>FUTURE PROJECTS</b></summary>
+  <br/>
+
+  > *Upcoming concepts, UI/UX designs, game prototypes, and experimental hardware/software integrations.*
+
+  <!-- Add your future project ideas here -->
+  *Ideas and roadmap in development*
+</details>
+
