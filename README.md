@@ -88,9 +88,9 @@ Currently working as a DTP specialist / tehnoredactor at *Monitorul de Suceava* 
 ## 🗂️ Portfolio & Project Lists
 
 > Repositories and works categorized by track:
-> - [x] **UNIVERSITY**
-> - [ ] **FINISHED PERSONAL PROJECTS**
-> - [ ] **FUTURE PROJECTS**
+> - [x] [**🎓 UNIVERSITY**](https://github.com/stars/MariaDariaTompea/lists/university)
+> - [ ] [**🚀 FINISHED PERSONAL PROJECTS**](https://github.com/stars/MariaDariaTompea/lists/finished-personal-projects)
+> - [ ] [**💡 FUTURE PROJECTS**](https://github.com/stars/MariaDariaTompea/lists/future-projects)
 
 <details open>
   <summary>🎓 <b>UNIVERSITY</b></summary>
@@ -98,8 +98,7 @@ Currently working as a DTP specialist / tehnoredactor at *Monitorul de Suceava* 
 
   > *Academic assignments, laboratories, and semester projects from Babeș-Bolyai University.*
 
-  <!-- Add your university project links/tables here -->
-  *Coming soon / Under curation*
+  [![Explore List](https://img.shields.io/badge/Explore%20List-University%20Coursework-A78BFA?style=flat&logo=github&logoColor=white)](https://github.com/stars/MariaDariaTompea/lists/university) &nbsp; 🔗 [**View all repositories in this category →**](https://github.com/stars/MariaDariaTompea/lists/university)
 </details>
 
 <br/>
@@ -110,8 +109,7 @@ Currently working as a DTP specialist / tehnoredactor at *Monitorul de Suceava* 
 
   > *Completed personal creations, game development experiments, generative art, and software utilities.*
 
-  <!-- Add your completed personal project links/tables here -->
-  *Coming soon / Under curation*
+  [![Explore List](https://img.shields.io/badge/Explore%20List-Personal%20Projects-A78BFA?style=flat&logo=github&logoColor=white)](https://github.com/stars/MariaDariaTompea/lists/finished-personal-projects) &nbsp; 🔗 [**View all repositories in this category →**](https://github.com/stars/MariaDariaTompea/lists/finished-personal-projects)
 </details>
 
 <br/>
@@ -122,7 +120,6 @@ Currently working as a DTP specialist / tehnoredactor at *Monitorul de Suceava* 
 
   > *Upcoming concepts, UI/UX designs, game prototypes, and experimental hardware/software integrations.*
 
-  <!-- Add your future project ideas here -->
-  *Ideas and roadmap in development*
+  [![Explore List](https://img.shields.io/badge/Explore%20List-Future%20Roadmap-A78BFA?style=flat&logo=github&logoColor=white)](https://github.com/stars/MariaDariaTompea/lists/future-projects) &nbsp; 🔗 [**View all repositories in this category →**](https://github.com/stars/MariaDariaTompea/lists/future-projects)
 </details>
 
